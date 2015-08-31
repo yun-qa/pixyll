@@ -1,8 +1,8 @@
 # Site settings
-title:       tech-pages for netdisk-qa
+title:       百度云QA技术博客
 email:       netdisk_qa@baidu.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      netdisk-qa
+description: "A Tech-Pages for BaiduCloud-QA"
 baseurl:     ""
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
