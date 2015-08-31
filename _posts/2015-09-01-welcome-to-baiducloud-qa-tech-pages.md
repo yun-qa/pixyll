@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Announcing Version 2.0
+title:      欢迎来到百度云QA技术阵营
 date:       2015-09-01
-summary:    Now, Pixyll is lighter weight and more customizable than before.
+summary:    记录百度云QA技术成长路上的点点滴滴，沉淀，与你分享！
 categories: jekyll pixyll
 ---
 
