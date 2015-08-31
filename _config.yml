@@ -3,8 +3,8 @@ title:       百度云QA技术博客
 email:       netdisk_qa@baidu.com
 author:      netdisk-qa
 description: "A Tech-Pages for BaiduCloud-QA"
-baseurl:     ""
-url:         "http://pixyll.com"
+baseurl:     "/pixyll"
+url:         "http://yun-qa.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
